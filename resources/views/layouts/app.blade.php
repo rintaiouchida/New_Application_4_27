@@ -92,7 +92,7 @@
             @yield('content')
         </main>
         <footer class='footer p20'>
-          <small class='copyright'>Our NARUHODO 2021 Created By Rintaro Uchida</small>
+          <small class='copyright'>Our_Discovery 2021 Created By Rintaro Uchida</small>
         </footer>
     </div>
 </body>
